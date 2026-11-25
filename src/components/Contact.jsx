@@ -1,0 +1,14 @@
+function Contact() {
+  return (
+    <section id="contact" className="contact">
+      <h2>Contact Me</h2>
+
+      <p>Email: student@example.com</p>
+      <p>GitHub: github.com/yourusername</p>
+
+      <button>Send Message</button>
+    </section>
+  );
+}
+
+export default Contact;
